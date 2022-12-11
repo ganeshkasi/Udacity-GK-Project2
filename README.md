@@ -33,6 +33,8 @@ Follow the process described in the course to `eb init` a new application and `e
 
 [Click Here to Launch Image Filter](http://udacity-gk-project2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg)
 
+http://udacity-gk-project2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
