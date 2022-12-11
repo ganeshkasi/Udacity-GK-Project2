@@ -38,7 +38,7 @@ import { filterImageFromURL, deleteLocalFiles } from './util/util';
         deleteLocalFiles([img])
       });
     } else {
-      res.send("Invalid URL");
+      res.send("Invalid URL, Unable to process the link shared").status(422);
     }
   });
   //! END @TODO1
